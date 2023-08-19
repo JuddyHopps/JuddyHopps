@@ -15,7 +15,7 @@ As a creative & passionate developer, and fast learner with detail and high qual
 <br />
 </h4>
 
-<i><h2 align="center">🎃 "Just one small positive thought in the morning can change your whole day" 👌 </h2></i>
+<i><h2 align="center">🎃 "Either you run the day or the day runs you." 👌 </h2></i>
 <h4 align="center">(๑′ᴗ‵๑)Ｉ Lᵒᵛᵉᵧₒᵤ♡ Coding (๑′ᴗ‵๑)</h4>
 
 <!-- ## 👨‍💻 Currently working in [MetaKongz](https://www.metakongz.art) as Team Member and [Discord](https://discord.gg/metakongzgc) Server.
