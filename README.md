@@ -42,9 +42,9 @@ As a creative & passionate developer, and fast learner with detail and high qual
 <h1 align="center">HappyCoder Here!</h1>
 <h3 align="center">Web/Mobile App & Blockchain developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=happysmilecode&label=Profile%20views&color=0e75b6&style=flat" alt="happysmilecode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JuddyHopps&label=Profile%20views&color=0e75b6&style=flat" alt="JuddyHopps" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happysmilecode" alt="happysmilecode" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JuddyHopps" alt="JuddyHopps" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
